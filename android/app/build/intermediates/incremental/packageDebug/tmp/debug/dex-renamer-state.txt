@@ -1,0 +1,4 @@
+#Tue Mar 23 15:42:55 IST 2021
+base.0=/home/aman/FoodApp/react-navigation-v5-mix/android/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
